@@ -1,3 +1,2 @@
 #  Loisirs
-J'aime le  * :football:
-          * :pizza:
+J'aime le  :football:
